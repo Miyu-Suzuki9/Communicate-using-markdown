@@ -8,3 +8,7 @@
 $ git 初期化
 /Users/skills/Projects/recipe-repository/.git/ で初期化された空の Git リポジトリ
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
